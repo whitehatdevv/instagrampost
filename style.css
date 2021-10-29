@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding-top: 100px;
+    font-size: 14px;
+   }
+   div{
+       width: 100%;
+   }
+   div.post {
+       background-color: white;
+       margin: 0;
+       padding-top: 5px;
+       
+   }
+   .logo-html{
+       font-size: 30px;
+   }
+   img{
+       width: 100%;
+       height: 200px;
+       padding-top: 10px;
+       display: block;
+   }
+   div.post {
+       width: 350px;
+       
+       margin: auto;
+   }
+   
+   .arriba{
+       display:flex;
+   
+     
+   }
+   .arriba .puntos{
+       margin-left: 70%;
+      padding-top: 10px;
+      
+   
+   }
+   .arriba .titulo {
+       margin-left:4px;
+   }
+   .arriba .logo-html{
+       margin-left: 5px;
+   }
+   .final-post .logos{
+       display: flex;
+       padding-top: 3px;
+       margin: 5px;
+       font-size:20px ;
+       
+   }
+   .final-post .logos .cuadrado{
+       font-size: 20px ;
+       margin-left: 60%;
+       
+   }
+   p{
+       padding-top:5px ;
+   }
+   .texto{
+       padding-bottom: 20px;
+   }
+   
