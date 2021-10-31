@@ -1,4 +1,5 @@
 #The Instagram Post
+
 Es el segundo proyecto que hacemos los alumnos de 4Geeks Academy 
 en la que tenemos que replicar un post de Instagram.
 
@@ -10,6 +11,7 @@ vamos a instalar  lo siguiente en la terminal: $python3 server.py
 
 -
 ##Como se desarrolló el proyecto:
+
 El proyecto se desarrollando primero con la visualización del ejemplo facilitado por la escuela:
 
 
@@ -24,6 +26,7 @@ Se identifican; logos ,texto, imagen
 
 
 ####Conocimientos utilizados:
+
 En este ejercicio hemos utilizado:
 
 Una estructura básica para cada sitio web HTML5.
