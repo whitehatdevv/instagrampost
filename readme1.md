@@ -7,9 +7,10 @@ en la que tenemos que replicar un post de Instagram.
 
 ### Cómo iniciar este proyecto
 Primero para poder ejecutar el resultado de este ejercicio 
-vamos a instalar  lo siguiente en la terminal: $python3 server.py
+vamos a instalar  lo siguiente en la terminal: 
 
--
+`$python3 server.py`
+
 ##Como se desarrolló el proyecto:
 
 El proyecto se desarrollando primero con la visualización del ejemplo facilitado por la escuela:
@@ -29,9 +30,9 @@ Se identifican; logos ,texto, imagen
 
 En este ejercicio hemos utilizado:
 
-Una estructura básica para cada sitio web HTML5.
-La etiqueta Link para importar Reglas CSS. 
-fontawesome para los logos
-Diferentes selectores disponibles en CSS.
-Utilizamos cajas: marge ,heading.
-Display: flex ,block
+- Una estructura básica para cada sitio web HTML5.
+- La etiqueta Link para importar Reglas CSS. 
+- fontawesome para los logos
+- Diferentes selectores disponibles en CSS.
+- Utilizamos cajas: marge ,heading.
+- Display: flex ,block
