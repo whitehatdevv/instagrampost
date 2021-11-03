@@ -9,7 +9,6 @@ en la que tenemos que replicar un post de Instagram.
 Primero para poder ejecutar el resultado de este ejercicio 
 vamos a instalar  lo siguiente en la terminal: $python3 server.py
 
--
 ##Como se desarrolló el proyecto:
 
 El proyecto se desarrollando primero con la visualización del ejemplo facilitado por la escuela:
